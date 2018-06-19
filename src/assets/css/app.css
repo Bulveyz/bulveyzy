@@ -30,7 +30,7 @@ button:focus {
     background-color: #786FA6;
   }
   .header__promo {
-    padding-top: 140px;
+    padding-top: 140px !important;
   }
   .about {
     margin-top: 100px;
